@@ -1,1 +1,5 @@
 /target
+/.settings
+/Documents and Settings
+/.classpath
+/.project
